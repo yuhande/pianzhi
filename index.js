@@ -6,4 +6,4 @@ import $ from 'jquery';
 
 $('#title').click(()=>{
     $(this).css('background','deeppink');
-})
+}) 
